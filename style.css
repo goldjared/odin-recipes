@@ -1,10 +1,10 @@
-h1 {
+h1, div{
     background-color: purple;
     color: white;
     text-align: center;
 }
 
-.burger {
+.foodimage {
     height: auto;
     width: 300px;
 }
@@ -14,4 +14,19 @@ h1 {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+
+.ingreds, .steps {
+    background-color: greenyellow;
+    color: white;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#chicken {
+    font-weight: 800;
+    font-stretch: semi-expanded;
 }
